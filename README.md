@@ -1,2 +1,3 @@
 # keylogger
 basic keylogger in python
+DONT USE THIS MALICIOUSLY IF YOU DO ITS NOT MY FAULT OR RESPONSIBILITY
